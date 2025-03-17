@@ -361,7 +361,7 @@
             lblVersion.Name = "lblVersion";
             lblVersion.Size = new Size(72, 15);
             lblVersion.TabIndex = 25;
-            lblVersion.Text = "Version 1.0.1";
+            lblVersion.Text = "Version 1.0.2";
             // 
             // mainContentPanel
             // 
