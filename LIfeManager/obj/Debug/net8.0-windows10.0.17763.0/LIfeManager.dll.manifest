@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="LIfeManager.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="LIfeManager.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description xmlns="urn:schemas-microsoft-com:asm.v1">VOS
 </description>
   <application />
@@ -70,7 +70,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>GaXCIMz3qUxP8ZL0QYL8E6sA18/CY7J3MTaXTtJu5Q0=</dsig:DigestValue>
+      <dsig:DigestValue>KIx7MOjyIds2RV+5ovQrxi+S+D4bd5Ze3QhTg2e/glM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LIfeManager.dll.config" size="290">
@@ -88,7 +88,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>s9CKBGboflGoAzB+WLohLDfM6kDFB2/B7xBrt8yy258=</dsig:DigestValue>
+      <dsig:DigestValue>wIKLx7+PBLV21saMVyO/Qg74anreiPFEFpIlwI/Ukh4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LIfeManager.runtimeconfig.json" size="443">
