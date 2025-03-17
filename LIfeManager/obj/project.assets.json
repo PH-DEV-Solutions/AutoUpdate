@@ -2,6 +2,9 @@
   "version": 3,
   "targets": {
     "net8.0-windows10.0.17763": {
+      "AutoUpdateProjectsMinimumRequiredClickOnceVersion/1.2.2": {
+        "type": "package"
+      },
       "Markdig/0.38.0": {
         "type": "package",
         "compile": {
@@ -544,6 +547,21 @@
     }
   },
   "libraries": {
+    "AutoUpdateProjectsMinimumRequiredClickOnceVersion/1.2.2": {
+      "sha512": "R43A769ls6TkcV41XjNrwtGnJNQKOA3gdU7rTqR3/nv6qrCymUfMVEwD5BEVp+5lp+yThwQKGUWE9rQmhbI1eQ==",
+      "type": "package",
+      "path": "autoupdateprojectsminimumrequiredclickonceversion/1.2.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autoupdateprojectsminimumrequiredclickonceversion.1.2.2.nupkg.sha512",
+        "autoupdateprojectsminimumrequiredclickonceversion.nuspec",
+        "content/PostBuildScripts/AutoUpdateProjectsMinimumRequiredClickOnceVersion.ps1",
+        "tools/Install.ps1",
+        "tools/Uninstall.ps1"
+      ]
+    },
     "Markdig/0.38.0": {
       "sha512": "zKy3JFjQvr1wbuMtbfcZVjNNCIqHxSCjGMq/CBcyNsY/MPsxqcS3o8M7CZ2kcMGGIw5LI2ZZd8rFUaFeV6SvrQ==",
       "type": "package",
@@ -1358,6 +1376,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows10.0.17763": [
+      "AutoUpdateProjectsMinimumRequiredClickOnceVersion >= 1.2.2",
       "Markdig >= 0.38.0",
       "Microsoft.CognitiveServices.Speech >= 1.41.1",
       "Microsoft.Web.WebView2 >= 1.0.3124.44",
@@ -1416,6 +1435,10 @@
       "net8.0-windows10.0.17763": {
         "targetAlias": "net8.0-windows10.0.17763.0",
         "dependencies": {
+          "AutoUpdateProjectsMinimumRequiredClickOnceVersion": {
+            "target": "Package",
+            "version": "[1.2.2, )"
+          },
           "Markdig": {
             "target": "Package",
             "version": "[0.38.0, )"

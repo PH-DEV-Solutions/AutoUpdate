@@ -18,5 +18,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\petrh\.nuget\packages\microsoft.web.webview2\1.0.3124.44</PkgMicrosoft_Web_WebView2>
+    <PkgAutoUpdateProjectsMinimumRequiredClickOnceVersion Condition=" '$(PkgAutoUpdateProjectsMinimumRequiredClickOnceVersion)' == '' ">C:\Users\petrh\.nuget\packages\autoupdateprojectsminimumrequiredclickonceversion\1.2.2</PkgAutoUpdateProjectsMinimumRequiredClickOnceVersion>
   </PropertyGroup>
 </Project>

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "LIfeManager/1.0.0": {
         "dependencies": {
+          "AutoUpdateProjectsMinimumRequiredClickOnceVersion": "1.2.2",
           "Markdig": "0.38.0",
           "Microsoft.CognitiveServices.Speech": "1.41.1",
           "Microsoft.Web.WebView2": "1.0.3124.44",
@@ -35,6 +36,7 @@
           }
         }
       },
+      "AutoUpdateProjectsMinimumRequiredClickOnceVersion/1.2.2": {},
       "Markdig/0.38.0": {
         "runtime": {
           "lib/net8.0/Markdig.dll": {
@@ -602,6 +604,13 @@
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoUpdateProjectsMinimumRequiredClickOnceVersion/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R43A769ls6TkcV41XjNrwtGnJNQKOA3gdU7rTqR3/nv6qrCymUfMVEwD5BEVp+5lp+yThwQKGUWE9rQmhbI1eQ==",
+      "path": "autoupdateprojectsminimumrequiredclickonceversion/1.2.2",
+      "hashPath": "autoupdateprojectsminimumrequiredclickonceversion.1.2.2.nupkg.sha512"
     },
     "Markdig/0.38.0": {
       "type": "package",

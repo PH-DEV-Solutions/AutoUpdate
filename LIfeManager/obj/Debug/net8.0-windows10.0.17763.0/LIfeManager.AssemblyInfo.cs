@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("VOS\r\n")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd5c349d091149a3ed0ff002ffac2d777171b17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d07ded8c19b78d3bfb03ca5dc33e6fafb8e777b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LIfeManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LIfeManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

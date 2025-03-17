@@ -244,7 +244,3 @@ P:\AutoUpdate\LIfeManager\obj\Debug\net8.0-windows10.0.17763.0\refint\LIfeManage
 P:\AutoUpdate\LIfeManager\obj\Debug\net8.0-windows10.0.17763.0\LIfeManager.pdb
 P:\AutoUpdate\LIfeManager\obj\Debug\net8.0-windows10.0.17763.0\LIfeManager.genruntimeconfig.cache
 P:\AutoUpdate\LIfeManager\obj\Debug\net8.0-windows10.0.17763.0\ref\LIfeManager.dll
-P:\AutoUpdate\LIfeManager\bin\Debug\net8.0-windows10.0.17763.0\LIfeManager.dll.manifest
-P:\AutoUpdate\LIfeManager\bin\Debug\net8.0-windows10.0.17763.0\LIfeManager.application
-P:\AutoUpdate\LIfeManager\obj\Debug\net8.0-windows10.0.17763.0\LIfeManager.dll.manifest
-P:\AutoUpdate\LIfeManager\obj\Debug\net8.0-windows10.0.17763.0\LIfeManager.application

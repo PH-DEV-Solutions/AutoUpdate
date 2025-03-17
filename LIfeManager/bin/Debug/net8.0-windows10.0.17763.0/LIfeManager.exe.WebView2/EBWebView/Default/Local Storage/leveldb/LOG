@@ -1,8 +1,5 @@
-2025/03/17-12:26:26.666 5eec Reusing MANIFEST P:\AutoUpdate\LIfeManager\bin\Debug\net8.0-windows10.0.17763.0\LIfeManager.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2025/03/17-12:26:26.675 5eec Recovering log #8
-2025/03/17-12:26:26.676 5eec Level-0 table #10: started
-2025/03/17-12:26:26.680 5eec Level-0 table #10: 31520 bytes OK
-2025/03/17-12:26:26.684 5eec Delete type=0 #8
-2025/03/17-12:26:48.355 7748 Level-0 table #13: started
-2025/03/17-12:26:48.359 7748 Level-0 table #13: 31533 bytes OK
-2025/03/17-12:26:48.360 7748 Delete type=0 #11
+2025/03/17-13:01:26.310 2184 Reusing MANIFEST P:\AutoUpdate\LIfeManager\bin\Debug\net8.0-windows10.0.17763.0\LIfeManager.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/03/17-13:01:26.318 2184 Recovering log #20
+2025/03/17-13:01:26.319 2184 Level-0 table #22: started
+2025/03/17-13:01:26.325 2184 Level-0 table #22: 31537 bytes OK
+2025/03/17-13:01:26.330 2184 Delete type=0 #20

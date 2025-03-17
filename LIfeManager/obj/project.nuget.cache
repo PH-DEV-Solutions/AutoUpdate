@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XIAqLfRaH7c=",
+  "dgSpecHash": "HJi0NRCH138=",
   "success": true,
   "projectFilePath": "P:\\AutoUpdate\\LIfeManager\\LIfeManager.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\petrh\\.nuget\\packages\\autoupdateprojectsminimumrequiredclickonceversion\\1.2.2\\autoupdateprojectsminimumrequiredclickonceversion.1.2.2.nupkg.sha512",
     "C:\\Users\\petrh\\.nuget\\packages\\markdig\\0.38.0\\markdig.0.38.0.nupkg.sha512",
     "C:\\Users\\petrh\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.41.1\\microsoft.cognitiveservices.speech.1.41.1.nupkg.sha512",
     "C:\\Users\\petrh\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
